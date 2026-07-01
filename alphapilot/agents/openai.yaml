@@ -1,0 +1,4 @@
+interface:
+  display_name: "AlphaPilot 智驭"
+  short_description: "AI investment co-pilot with real-time data and risk analysis"
+  default_prompt: "AlphaPilot 智驭智能投资副驾驶已就绪。支持: 个股五步法分析 财务排雷 逆向估值 因子评分 风险压力测试 组合优化 资金流分析 产业链穿透。请告知需要分析的标的或投资目标。"
