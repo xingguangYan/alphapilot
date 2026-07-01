@@ -1,0 +1,4 @@
+interface:
+  display_name: "AlphaPilot·智驭"
+  short_description: "AI investment co-pilot with quant models and risk analysis"
+  default_prompt: "智驭·阿尔法 - 智能投资决策副驾驶已就绪。请告知您想分析的标的、行业或投资组合，我将启动十维穿透分析引擎进行全面研判。"
